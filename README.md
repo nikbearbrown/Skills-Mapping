@@ -25,21 +25,21 @@ This project aims to enhance **skills mapping** by:
 
 
 AI4ED-Lex-Skills-Mapping/
-│── README.md              # Project overview and setup instructions
-│── docs/                  # Documentation files
-│   ├── methodology.md
-│   ├── evaluation.md
-│   ├── comparison.md
-│── data/                  # Sample datasets
-│── scripts/               # Python scripts for processing
-│   ├── tag_extraction.py
-│   ├── acronym_detection.py
-│   ├── skill_mapping.py
-│── models/                # Pre-trained models (if applicable)
-│── results/               # Output files, analysis results
-│── LICENSE                # License for open-source use
-│── .gitignore             # Files to ignore in GitHub commits
-│── requirements.txt       # Dependencies for running the project
+│── README.md              # Project overview and setup instructions     
+│── docs/                  # Documentation files     
+│   ├── methodology.md     
+│   ├── evaluation.md     
+│   ├── comparison.md     
+│── data/                  # Sample datasets    
+│── scripts/               # Python scripts for processing    
+│   ├── tag_extraction.py    
+│   ├── acronym_detection.py    
+│   ├── skill_mapping.py     
+│── models/                # Pre-trained models      
+│── results/               # Output files, analysis results     
+│── LICENSE                # License for open-source use    
+│── .gitignore             # Files to ignore in GitHub commits    
+│── requirements.txt       # Dependencies for running the project     
 
 
 
