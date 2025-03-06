@@ -1,5 +1,18 @@
 # Skills Mapping
 
+### **Abstract**  
+
+AI4ED Lex is an **open-source lexical database** designed to bridge the gap between **job market demands and educational curricula** by mapping **skills from job listings and course syllabi**. Using **natural language processing (NLP), machine learning, and statistical modeling**, AI4ED Lex systematically identifies and categorizes skills to improve workforce alignment, career planning, and educational program development.  
+
+By leveraging **Poisson distribution-based Discriminating Terms analysis**, **semantic enrichment**, and **Contextual Rolling Window Classification (CRWC)**, AI4ED Lex extracts key employment-related terms and maps them to their **synonyms, acronyms, and job classifications** (e.g., **Skills, Certifications, Job Titles, Sectors, and Traits**). Additionally, **Large Language Models (LLMs)** enhance accuracy by verifying and enriching missing data.  
+
+This project enables:  
+- **Automated extraction of skills from job postings and syllabi**, improving curriculum-to-career alignment.  
+- **Skill classification for workforce development**, helping educators and policymakers identify in-demand competencies.  
+- **Comparative analysis with existing frameworks** (e.g., **ESCO, O*NET, WGU Skills Library, and commercial tools**) to ensure broad industry coverage.  
+
+By integrating **advanced NLP with workforce analytics**, AI4ED Lex provides a **scalable and adaptive skills mapping solution**, enhancing career readiness, curriculum design, and labor market transparency.
+
 
 ## Overview
 
